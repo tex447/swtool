@@ -16,10 +16,10 @@ export const AuthenticatedNavigation = () => (
   <div>
     <Nav>
       <IndexLinkContainer to="/">
-        <NavItem eventKey={ 1 } href="/">Index</NavItem>
+        <NavItem eventKey={ 1 } href="/">Character Creation</NavItem>
       </IndexLinkContainer>
       <LinkContainer to="/documents">
-        <NavItem eventKey={ 2 } href="/documents">Documents</NavItem>
+        <NavItem eventKey={ 2 } href="/documents">Dashboard</NavItem>
       </LinkContainer>
       <LinkContainer to="/Certificates">
         <NavItem eventKey={ 3 } href="/documents">Certificates</NavItem>
