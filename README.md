@@ -1,17 +1,8 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+# Star Wars Tool App
+This application is a companion tool to the pen and paper Star Wars RPG.
 
-<table>
-  <tbody>
-    <tr>
-      <th>Base Version</th>
-      <td>v4.7.0</td>
-    </tr>
-    <tr>
-      <th>Meteor Version</th>
-      <td>v1.4.0.1</td>
-    </tr>
-  </tbody>
-</table>
 
-[Read the Documentation](http://themeteorchef.com/base)
+Changes to your project's package version selections:
+
+meteortoys:toykit  added, version 3.0.4
+msavin:mongol      added, version 2.0.1
